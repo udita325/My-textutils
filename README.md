@@ -4,7 +4,7 @@ TextUtils is a simple yet powerful text-manipulation tool built using React.
 It allows users to transform and analyse text easily, making it useful for writing, editing, and productivity tasks.
 
 🌐 Live Demo
-my-textutils-cyan.vercel.app
+https://my-textutils-cyan.vercel.app/
 
 ✨ Features
 
