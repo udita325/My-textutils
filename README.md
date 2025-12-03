@@ -42,3 +42,20 @@ Character count
 Estimated reading time
 
 Change the background/theme using the colour buttons in the Navbar
+
+📁 Folder Structure
+src/
+│
+├── component/
+│   ├── Navbar.js
+│   ├── TextForm.js
+│   ├── About.js
+│   └── Alert.js
+│
+├── App.js
+├── App.css
+└── index.js
+
+🤝 Contributing
+
+Feel free to fork this repository and submit a pull request with improvements!
